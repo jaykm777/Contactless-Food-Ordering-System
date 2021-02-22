@@ -9,6 +9,9 @@ Open customer_h.html file to open customer side.
 Open rest_open.html file to open restaurant side.
 
 Enter table no as 1,2 or 3 in customer side.
+
 For restaurant side:
+
 username- abcd
+
 password- 1234
